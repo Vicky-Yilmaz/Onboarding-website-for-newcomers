@@ -60,145 +60,137 @@ html {
 
 }
 
+#deneme{
+	margin-top: 5%;
+	margin-left: 5%;
+}
 
 .p1stat1{
 	font-family: Open sans;
 	font-size: 100%;
 	color: black;
-	
-	
+	text-align: center;
+		
 }
+
+
 .statement1{
-	padding-top: 15%;
-	padding-left: 10%;
-}
-
-.statement1 span{
-padding-left: 10%;
-
+	padding-top: 2%;
+	text-align: center;
+	
 }
 
 
 .h1stat1{
 	font-family: Open sans;
 	font-size: 200%;
-	font-size: 600;
 	color: #0073a3;
-	padding-left: 10%;
+	
 	
 }
+
+
+
 
 .p1stat2{
 	font-family: Open sans;
 	font-size: 100%;
 	color: black;
-	
+	text-align: center;	
 	
 }
 .statement2{
-	padding-top: 20%;
-	padding-left: 13%;
+	padding-top: 7%;
+	text-align: center;
 }
 
-.statement2 span{
-padding-left: 19%;
-
-}
 
 
 .h1stat2{
 	font-family: Open sans;
 	font-size: 200%;
-	font-size: 600;
 	color: #0073a3;
-	padding-left: 10%;
+
+	
 	
 }
+
+
 
 .p1stat3{
 	font-family: Open sans;
 	font-size: 100%;
 	color: black;
-	
-	
+	text-align: center;
+
+		
 }
+
 .statement3{
-	padding-top: 20%;
-	padding-left: 15%;
+	padding-top: 8%;
+	text-align: center;
 }
 
-.statement3 span{
-padding-left: 18%;
-
-}
 
 
 .h1stat3{
 	font-family: Open sans;
 	font-size: 200%;
-	font-size: 600;
 	color: #0073a3;
-	padding-left: 10%;
-	
+
 }
 
 .p1stat4{
 	font-family: Open sans;
 	font-size: 100%;
 	color: black;
+	text-align: center;
+
+	
 	
 	
 }
 .statement4{
-	padding-top: 20%;
-	padding-left: 12%;
-}
-
-.statement4 span{
-padding-left: 21%;
-
+	padding-top: 7%;
+	text-align: center;
+	padding-bottom: 45px;
 }
 
 
 .h1stat4{
 	font-family: Open sans;
 	font-size: 200%;
-	font-size: 600;
 	color: #0073a3;
-	padding-left: 10%;
 	
 }
 
-.statement5{
-	padding-top: 20%;
-	padding-left: 5%;
+.middleEnd{
+	text-align: center;
+	background-color: #0073a3;
+
+
 }
 
-.statement5 p{
-	font-weight: 600;
-	font-size:150%;
-}
-
-.why1{
-	padding-left: 10%;
-}
-
-
-.why2{
-	padding-left: 15%;
+#blank{
+	padding-top: 5%;
 }
 
 .interested{
 	font-size: 200%;
 	text-align: center;
-	padding-top: 50px;
-	color: #0073a3;
+	
+	color: white;
 }
 
-#lastButton{
-	margin-left: 44%;
-}
 
+
+
+#introBlack2{
+	font-size: 50px;
+	font-weight: 300;
+	margin-top: 10%;
+	text-align: center;
+}
 
 
 
